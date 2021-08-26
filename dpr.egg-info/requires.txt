@@ -1,0 +1,8 @@
+cython
+filelock
+numpy
+regex
+transformers<3.1.0,>=3.0.0
+tqdm>=4.27
+wget
+spacy>=2.1.8
